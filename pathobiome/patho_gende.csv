@@ -1,0 +1,790 @@
+ID,Gender,Pathogen
+RR197001,Female,Streptococcus pyogenes
+RR197002,Female,Streptococcus pyogenes
+RR197003,Male,Streptococcus pyogenes
+RR197007,Male,Streptococcus pyogenes
+RR197008,Male,Streptococcus pyogenes
+RR197013,Male,Streptococcus pyogenes
+RR197014,Male,Streptococcus pyogenes
+RR197015,Male,Streptococcus pyogenes
+RR197022,Female,Streptococcus pyogenes
+RR197023,Female,Streptococcus pyogenes
+RR197024,Male,Streptococcus pyogenes
+RR197005,Male,Streptococcus pyogenes
+RR197017,Male,Streptococcus pyogenes
+RR197030,Male,Streptococcus pyogenes
+RR197037,Male,Streptococcus pyogenes
+RR197039,Male,Streptococcus pyogenes
+RR197048,Male,Streptococcus pyogenes
+RR197047,Male,Streptococcus pyogenes
+RR197042,Female,Streptococcus pyogenes
+RR197046,Female,Streptococcus pyogenes
+RR197045,Male,Streptococcus pyogenes
+RR197043,Female,Streptococcus pyogenes
+RR197053,Female,Streptococcus pyogenes
+RR197051,Male,Streptococcus pyogenes
+RR197052,Female,Streptococcus pyogenes
+RR197055,Female,Streptococcus pyogenes
+RR197057,Male,Streptococcus pyogenes
+RR197059,Female,Streptococcus pyogenes
+RR197060,Female,Streptococcus pyogenes
+RR197062,Female,Streptococcus pyogenes
+RR197063,Male,Streptococcus pyogenes
+RR197064,Male,Streptococcus pyogenes
+RR197069,Male,Streptococcus pyogenes
+RR197072,Male,Streptococcus pyogenes
+RR197073,Female,Streptococcus pyogenes
+RR197077,Female,Streptococcus pyogenes
+RR197079,Male,Streptococcus pyogenes
+RR197078,Male,Streptococcus pyogenes
+RR197085,Male,Streptococcus pyogenes
+RR197093,Male,Streptococcus pyogenes
+RR197094,Female,Streptococcus pyogenes
+RR197095,Female,Streptococcus pyogenes
+RR197097,Male,Streptococcus pyogenes
+RR197100,Male,Streptococcus pyogenes
+RR197101,Female,Streptococcus pyogenes
+RR197103,Male,Streptococcus pyogenes
+RR197104,Male,Streptococcus pyogenes
+RR197105,Male,Streptococcus pyogenes
+RR197106,Female,Streptococcus pyogenes
+RR197090,Male,Streptococcus pyogenes
+RR197107,Male,Streptococcus pyogenes
+RR197108,Male,Streptococcus pyogenes
+RR197110,Female,Streptococcus pyogenes
+RR197111,Female,Streptococcus pyogenes
+RR197117,Female,Streptococcus pyogenes
+RR197118,Female,Streptococcus pyogenes
+RR197120,Female,Streptococcus pyogenes
+RR197122,Male,Streptococcus pyogenes
+RR197124,Male,Streptococcus pyogenes
+RR197125,Female,Streptococcus pyogenes
+RR197127,Female,Streptococcus pyogenes
+RR197128,Female,Streptococcus pyogenes
+RR197129,Female,Streptococcus pyogenes
+RR197133,Female,Streptococcus pyogenes
+RR197140,Male,Streptococcus pyogenes
+RR197142,Female,Streptococcus pyogenes
+RR197143,Male,Streptococcus pyogenes
+RR197144,Female,Streptococcus pyogenes
+RR197146,Female,Streptococcus pyogenes
+RR197003,Male,Haemophilus ducreyi
+RR197002,Female,Bacillus cereus
+RR197004,Female,Bacillus cereus
+RR197008,Male,Bacillus cereus
+RR197013,Male,Bacillus cereus
+RR197018,Male,Bacillus cereus
+RR197029,Female,Bacillus cereus
+RR197030,Male,Bacillus cereus
+RR197037,Male,Bacillus cereus
+RR197038,Male,Bacillus cereus
+RR197047,Male,Bacillus cereus
+RR197040,Male,Bacillus cereus
+RR197051,Male,Bacillus cereus
+RR197058,Female,Bacillus cereus
+RR197066,Male,Bacillus cereus
+RR197067,Female,Bacillus cereus
+RR197073,Female,Bacillus cereus
+RR197074,Male,Bacillus cereus
+RR197077,Female,Bacillus cereus
+RR197079,Male,Bacillus cereus
+RR197078,Male,Bacillus cereus
+RR197091,Female,Bacillus cereus
+RR197100,Male,Bacillus cereus
+RR197104,Male,Bacillus cereus
+RR197084,Female,Bacillus cereus
+RR197086,Female,Bacillus cereus
+RR197088,Male,Bacillus cereus
+RR197109,Female,Bacillus cereus
+RR197110,Female,Bacillus cereus
+RR197111,Female,Bacillus cereus
+RR197118,Female,Bacillus cereus
+RR197119,Female,Bacillus cereus
+RR197124,Male,Bacillus cereus
+RR197125,Female,Bacillus cereus
+RR197128,Female,Bacillus cereus
+RR197129,Female,Bacillus cereus
+RR197138,Female,Bacillus cereus
+RR197139,Female,Bacillus cereus
+RR197140,Male,Bacillus cereus
+RR197143,Male,Bacillus cereus
+RR197144,Female,Bacillus cereus
+RR197001,Female,Streptococcus equi
+RR197002,Female,Streptococcus equi
+RR197003,Male,Streptococcus equi
+RR197004,Female,Streptococcus equi
+RR197007,Male,Streptococcus equi
+RR197008,Male,Streptococcus equi
+RR197010,Female,Streptococcus equi
+RR197011,Female,Streptococcus equi
+RR197012,Female,Streptococcus equi
+RR197013,Male,Streptococcus equi
+RR197014,Male,Streptococcus equi
+RR197015,Male,Streptococcus equi
+RR197023,Female,Streptococcus equi
+RR197024,Male,Streptococcus equi
+RR197005,Male,Streptococcus equi
+RR197016,Female,Streptococcus equi
+RR197017,Male,Streptococcus equi
+RR197026,Male,Streptococcus equi
+RR197029,Female,Streptococcus equi
+RR197030,Male,Streptococcus equi
+RR197035,Male,Streptococcus equi
+RR197038,Male,Streptococcus equi
+RR197039,Male,Streptococcus equi
+RR197048,Male,Streptococcus equi
+RR197047,Male,Streptococcus equi
+RR197040,Male,Streptococcus equi
+RR197046,Female,Streptococcus equi
+RR197045,Male,Streptococcus equi
+RR197043,Female,Streptococcus equi
+RR197053,Female,Streptococcus equi
+RR197027,Male,Streptococcus equi
+RR197049,Female,Streptococcus equi
+RR197050,Female,Streptococcus equi
+RR197051,Male,Streptococcus equi
+RR197052,Female,Streptococcus equi
+RR197055,Female,Streptococcus equi
+RR197057,Male,Streptococcus equi
+RR197060,Female,Streptococcus equi
+RR197061,Male,Streptococcus equi
+RR197062,Female,Streptococcus equi
+RR197064,Male,Streptococcus equi
+RR197065,Female,Streptococcus equi
+RR197066,Male,Streptococcus equi
+RR197067,Female,Streptococcus equi
+RR197068,Female,Streptococcus equi
+RR197070,Female,Streptococcus equi
+RR197071,Male,Streptococcus equi
+RR197072,Male,Streptococcus equi
+RR197073,Female,Streptococcus equi
+RR197074,Male,Streptococcus equi
+RR197077,Female,Streptococcus equi
+RR197079,Male,Streptococcus equi
+RR197080,Male,Streptococcus equi
+RR197078,Male,Streptococcus equi
+RR197089,Male,Streptococcus equi
+RR197091,Female,Streptococcus equi
+RR197093,Male,Streptococcus equi
+RR197094,Female,Streptococcus equi
+RR197095,Female,Streptococcus equi
+RR197097,Male,Streptococcus equi
+RR197098,Female,Streptococcus equi
+RR197100,Male,Streptococcus equi
+RR197101,Female,Streptococcus equi
+RR197102,Male,Streptococcus equi
+RR197103,Male,Streptococcus equi
+RR197104,Male,Streptococcus equi
+RR197105,Male,Streptococcus equi
+RR197106,Female,Streptococcus equi
+RR197084,Female,Streptococcus equi
+RR197088,Male,Streptococcus equi
+RR197090,Male,Streptococcus equi
+RR197108,Male,Streptococcus equi
+RR197109,Female,Streptococcus equi
+RR197111,Female,Streptococcus equi
+RR197112,Female,Streptococcus equi
+RR197116,Female,Streptococcus equi
+RR197117,Female,Streptococcus equi
+RR197118,Female,Streptococcus equi
+RR197119,Female,Streptococcus equi
+RR197120,Female,Streptococcus equi
+RR197121,Female,Streptococcus equi
+RR197122,Male,Streptococcus equi
+RR197125,Female,Streptococcus equi
+RR197127,Female,Streptococcus equi
+RR197126,Male,Streptococcus equi
+RR197129,Female,Streptococcus equi
+RR197131,Male,Streptococcus equi
+RR197132,Male,Streptococcus equi
+RR197133,Female,Streptococcus equi
+RR197135,Female,Streptococcus equi
+RR197140,Male,Streptococcus equi
+RR197142,Female,Streptococcus equi
+RR197143,Male,Streptococcus equi
+RR197144,Female,Streptococcus equi
+RR197145,Male,Streptococcus equi
+RR197002,Female,Streptococcus dysgalactiae
+RR197008,Male,Streptococcus dysgalactiae
+RR197011,Female,Streptococcus dysgalactiae
+RR197012,Female,Streptococcus dysgalactiae
+RR197014,Male,Streptococcus dysgalactiae
+RR197023,Female,Streptococcus dysgalactiae
+RR197024,Male,Streptococcus dysgalactiae
+RR197039,Male,Streptococcus dysgalactiae
+RR197043,Female,Streptococcus dysgalactiae
+RR197053,Female,Streptococcus dysgalactiae
+RR197027,Male,Streptococcus dysgalactiae
+RR197050,Female,Streptococcus dysgalactiae
+RR197055,Female,Streptococcus dysgalactiae
+RR197057,Male,Streptococcus dysgalactiae
+RR197063,Male,Streptococcus dysgalactiae
+RR197073,Female,Streptococcus dysgalactiae
+RR197091,Female,Streptococcus dysgalactiae
+RR197101,Female,Streptococcus dysgalactiae
+RR197103,Male,Streptococcus dysgalactiae
+RR197104,Male,Streptococcus dysgalactiae
+RR197105,Male,Streptococcus dysgalactiae
+RR197118,Female,Streptococcus dysgalactiae
+RR197125,Female,Streptococcus dysgalactiae
+RR197127,Female,Streptococcus dysgalactiae
+RR197129,Female,Streptococcus dysgalactiae
+RR197140,Male,Streptococcus dysgalactiae
+RR197142,Female,Streptococcus dysgalactiae
+RR197144,Female,Streptococcus dysgalactiae
+RR197017,Male,Listeria monocytogenes
+RR197026,Male,Listeria monocytogenes
+RR197037,Male,Listeria monocytogenes
+RR197041,Male,Listeria monocytogenes
+RR197048,Male,Listeria monocytogenes
+RR197047,Male,Listeria monocytogenes
+RR197046,Female,Listeria monocytogenes
+RR197043,Female,Listeria monocytogenes
+RR197051,Male,Listeria monocytogenes
+RR197055,Female,Listeria monocytogenes
+RR197066,Male,Listeria monocytogenes
+RR197072,Male,Listeria monocytogenes
+RR197077,Female,Listeria monocytogenes
+RR197091,Female,Listeria monocytogenes
+RR197099,Female,Listeria monocytogenes
+RR197110,Female,Listeria monocytogenes
+RR197117,Female,Listeria monocytogenes
+RR197125,Female,Listeria monocytogenes
+RR197020,Female,Enterococcus gallinarum
+RR197022,Female,Enterococcus gallinarum
+RR197023,Female,Enterococcus gallinarum
+RR197005,Male,Enterococcus gallinarum
+RR197037,Male,Enterococcus gallinarum
+RR197041,Male,Enterococcus gallinarum
+RR197048,Male,Enterococcus gallinarum
+RR197042,Female,Enterococcus gallinarum
+RR197053,Female,Enterococcus gallinarum
+RR197027,Male,Enterococcus gallinarum
+RR197057,Male,Enterococcus gallinarum
+RR197063,Male,Enterococcus gallinarum
+RR197085,Male,Enterococcus gallinarum
+RR197091,Female,Enterococcus gallinarum
+RR197096,Male,Enterococcus gallinarum
+RR197101,Female,Enterococcus gallinarum
+RR197110,Female,Enterococcus gallinarum
+RR197114,Female,Enterococcus gallinarum
+RR197121,Female,Enterococcus gallinarum
+RR197126,Male,Enterococcus gallinarum
+RR197130,Male,Enterococcus gallinarum
+RR197008,Male,Shigella_sonnei
+RR197011,Female,Shigella_sonnei
+RR197022,Female,Shigella_sonnei
+RR197024,Male,Shigella_sonnei
+RR197028,Female,Shigella_sonnei
+RR197005,Male,Shigella_sonnei
+RR197006,Female,Shigella_sonnei
+RR197026,Male,Shigella_sonnei
+RR197032,Male,Shigella_sonnei
+RR197035,Male,Shigella_sonnei
+RR197033,Female,Shigella_sonnei
+RR197036,Female,Shigella_sonnei
+RR197041,Male,Shigella_sonnei
+RR197048,Male,Shigella_sonnei
+RR197044,Male,Shigella_sonnei
+RR197043,Female,Shigella_sonnei
+RR197053,Female,Shigella_sonnei
+RR197027,Male,Shigella_sonnei
+RR197049,Female,Shigella_sonnei
+RR197055,Female,Shigella_sonnei
+RR197057,Male,Shigella_sonnei
+RR197059,Female,Shigella_sonnei
+RR197061,Male,Shigella_sonnei
+RR197063,Male,Shigella_sonnei
+RR197064,Male,Shigella_sonnei
+RR197068,Female,Shigella_sonnei
+RR197073,Female,Shigella_sonnei
+RR197075,Male,Shigella_sonnei
+RR197076,Male,Shigella_sonnei
+RR197080,Male,Shigella_sonnei
+RR197085,Male,Shigella_sonnei
+RR197091,Female,Shigella_sonnei
+RR197093,Male,Shigella_sonnei
+RR197096,Male,Shigella_sonnei
+RR197097,Male,Shigella_sonnei
+RR197101,Female,Shigella_sonnei
+RR197102,Male,Shigella_sonnei
+RR197103,Male,Shigella_sonnei
+RR197104,Male,Shigella_sonnei
+RR197105,Male,Shigella_sonnei
+RR197081,Male,Shigella_sonnei
+RR197082,Female,Shigella_sonnei
+RR197083,Male,Shigella_sonnei
+RR197084,Female,Shigella_sonnei
+RR197086,Female,Shigella_sonnei
+RR197088,Male,Shigella_sonnei
+RR197110,Female,Shigella_sonnei
+RR197112,Female,Shigella_sonnei
+RR197113,Male,Shigella_sonnei
+RR197117,Female,Shigella_sonnei
+RR197120,Female,Shigella_sonnei
+RR197121,Female,Shigella_sonnei
+RR197123,Female,Shigella_sonnei
+RR197127,Female,Shigella_sonnei
+RR197129,Female,Shigella_sonnei
+RR197131,Male,Shigella_sonnei
+RR197132,Male,Shigella_sonnei
+RR197137,Female,Shigella_sonnei
+RR197143,Male,Shigella_sonnei
+RR197144,Female,Shigella_sonnei
+RR197145,Male,Shigella_sonnei
+RR197146,Female,Shigella_sonnei
+RR197008,Male,Shigella_dysenteriae
+RR197010,Female,Shigella_dysenteriae
+RR197011,Female,Shigella_dysenteriae
+RR197013,Male,Shigella_dysenteriae
+RR197021,Male,Shigella_dysenteriae
+RR197022,Female,Shigella_dysenteriae
+RR197024,Male,Shigella_dysenteriae
+RR197028,Female,Shigella_dysenteriae
+RR197006,Female,Shigella_dysenteriae
+RR197026,Male,Shigella_dysenteriae
+RR197032,Male,Shigella_dysenteriae
+RR197035,Male,Shigella_dysenteriae
+RR197033,Female,Shigella_dysenteriae
+RR197048,Male,Shigella_dysenteriae
+RR197044,Male,Shigella_dysenteriae
+RR197042,Female,Shigella_dysenteriae
+RR197053,Female,Shigella_dysenteriae
+RR197049,Female,Shigella_dysenteriae
+RR197055,Female,Shigella_dysenteriae
+RR197057,Male,Shigella_dysenteriae
+RR197059,Female,Shigella_dysenteriae
+RR197061,Male,Shigella_dysenteriae
+RR197063,Male,Shigella_dysenteriae
+RR197064,Male,Shigella_dysenteriae
+RR197073,Female,Shigella_dysenteriae
+RR197075,Male,Shigella_dysenteriae
+RR197076,Male,Shigella_dysenteriae
+RR197080,Male,Shigella_dysenteriae
+RR197085,Male,Shigella_dysenteriae
+RR197091,Female,Shigella_dysenteriae
+RR197093,Male,Shigella_dysenteriae
+RR197096,Male,Shigella_dysenteriae
+RR197097,Male,Shigella_dysenteriae
+RR197103,Male,Shigella_dysenteriae
+RR197104,Male,Shigella_dysenteriae
+RR197105,Male,Shigella_dysenteriae
+RR197082,Female,Shigella_dysenteriae
+RR197084,Female,Shigella_dysenteriae
+RR197088,Male,Shigella_dysenteriae
+RR197110,Female,Shigella_dysenteriae
+RR197112,Female,Shigella_dysenteriae
+RR197113,Male,Shigella_dysenteriae
+RR197118,Female,Shigella_dysenteriae
+RR197121,Female,Shigella_dysenteriae
+RR197123,Female,Shigella_dysenteriae
+RR197130,Male,Shigella_dysenteriae
+RR197131,Male,Shigella_dysenteriae
+RR197132,Male,Shigella_dysenteriae
+RR197137,Female,Shigella_dysenteriae
+RR197143,Male,Shigella_dysenteriae
+RR197144,Female,Shigella_dysenteriae
+RR197145,Male,Shigella_dysenteriae
+RR197146,Female,Shigella_dysenteriae
+RR197004,Female,Klebsiella_aerogenes
+RR197011,Female,Klebsiella_aerogenes
+RR197028,Female,Klebsiella_aerogenes
+RR197044,Male,Klebsiella_aerogenes
+RR197042,Female,Klebsiella_aerogenes
+RR197053,Female,Klebsiella_aerogenes
+RR197061,Male,Klebsiella_aerogenes
+RR197085,Male,Klebsiella_aerogenes
+RR197091,Female,Klebsiella_aerogenes
+RR197097,Male,Klebsiella_aerogenes
+RR197106,Female,Klebsiella_aerogenes
+RR197113,Male,Klebsiella_aerogenes
+RR197114,Female,Klebsiella_aerogenes
+RR197121,Female,Klebsiella_aerogenes
+RR197122,Male,Klebsiella_aerogenes
+RR197126,Male,Klebsiella_aerogenes
+RR197133,Female,Klebsiella_aerogenes
+RR197145,Male,Klebsiella_aerogenes
+RR197146,Female,Klebsiella_aerogenes
+RR197012,Female,Serratia_marcescens
+RR197042,Female,Serratia_marcescens
+RR197060,Female,Serratia_marcescens
+RR197091,Female,Serratia_marcescens
+RR197094,Female,Serratia_marcescens
+RR197103,Male,Serratia_marcescens
+RR197106,Female,Serratia_marcescens
+RR197126,Male,Serratia_marcescens
+RR197132,Male,Serratia_marcescens
+RR197133,Female,Serratia_marcescens
+RR197145,Male,Serratia_marcescens
+RR197029,Female,Aeromonas_hydrophila
+RR197074,Male,Aeromonas_hydrophila
+RR197023,Female,Pseudomonas_putida
+RR197037,Male,Pseudomonas_putida
+RR197132,Male,Pseudomonas_putida
+RR197032,Male,Stenotrophomonas_maltophilia
+RR197060,Female,Stenotrophomonas_maltophilia
+RR197077,Female,Stenotrophomonas_maltophilia
+RR197089,Male,Stenotrophomonas_maltophilia
+RR197086,Female,Stenotrophomonas_maltophilia
+RR197119,Female,Stenotrophomonas_maltophilia
+RR197132,Male,Stenotrophomonas_maltophilia
+RR197138,Female,Stenotrophomonas_maltophilia
+RR197141,Female,Stenotrophomonas_maltophilia
+RR197016,Female,Aeromonas_caviae
+RR197091,Female,Aeromonas_caviae
+RR197074,Male,Aeromonas_veronii
+RR197093,Male,Aeromonas_veronii
+RR197094,Female,Aeromonas_veronii
+RR197106,Female,Aeromonas_veronii
+RR197126,Male,Aeromonas_veronii
+RR197045,Male,Pasteurella_multocida
+RR197094,Female,Pasteurella_multocida
+RR197084,Female,Pasteurella_multocida
+RR197133,Female,Pasteurella_multocida
+RR197135,Female,Pasteurella_multocida
+RR197058,Female,Streptobacillus_moniliformis
+RR197068,Female,Campylobacter_lari
+RR197072,Male,Campylobacter_lari
+RR197141,Female,Campylobacter_lari
+RR197068,Female,Brachyspira_hyodysenteriae
+RR197077,Female,Brachyspira_hyodysenteriae
+RR197136,Female,Brachyspira_hyodysenteriae
+RR197034,Male,Elizabethkingia_anophelis
+RR197060,Female,Elizabethkingia_anophelis
+RR197061,Male,Elizabethkingia_anophelis
+RR197072,Male,Elizabethkingia_anophelis
+RR197103,Male,Elizabethkingia_anophelis
+RR197022,Female,Staphylococcus_pseudintermedius
+RR197027,Male,Staphylococcus_pseudintermedius
+RR197115,Male,Staphylococcus_pseudintermedius
+RR197035,Male,Providencia_rettgeri
+RR197105,Male,Providencia_rettgeri
+RR197078,Male,Entamoeba_histolytica
+RR197056,Male,Trichomonas_vaginalis
+RR197058,Female,Trichomonas_vaginalis
+RR197069,Male,Trichomonas_vaginalis
+RR197078,Male,Trichomonas_vaginalis
+RR197033,Female,Orf_virus
+RR197094,Female,Schistosoma_mansoni
+RR197041,Male,Human_polyomavirus_4
+RR197006,Female,Enterocytozoon_bieneusi
+RR197057,Male,Enterocytozoon_bieneusi
+RR197108,Male,Enterocytozoon_bieneusi
+RR197121,Female,Enterocytozoon_bieneusi
+RR197132,Male,Enterocytozoon_bieneusi
+RR197144,Female,Enterocytozoon_bieneusi
+RR197035,Male,Providencia_alcalifaciens
+RR197046,Female,Human_mastadenovirus_D
+RR197103,Male,Human_mastadenovirus_D
+RR197129,Female,Human_mastadenovirus_D
+RR197036,Female,Giardia_intestinalis
+RR197061,Male,Giardia_intestinalis
+RR197075,Male,Giardia_intestinalis
+RR197080,Male,Giardia_intestinalis
+RR197004,Female,Blastocystis_hominis
+RR197056,Male,Blastocystis_hominis
+RR197060,Female,Blastocystis_hominis
+RR197062,Female,Blastocystis_hominis
+RR197070,Female,Blastocystis_hominis
+RR197071,Male,Blastocystis_hominis
+RR197072,Male,Blastocystis_hominis
+RR197077,Female,Blastocystis_hominis
+RR197078,Male,Blastocystis_hominis
+RR197100,Male,Blastocystis_hominis
+RR197084,Female,Blastocystis_hominis
+RR197109,Female,Blastocystis_hominis
+RR197129,Female,Blastocystis_hominis
+RR197138,Female,Blastocystis_hominis
+RR197139,Female,Blastocystis_hominis
+RR197001,Female,Streptococcus_suis
+RR197002,Female,Streptococcus_suis
+RR197003,Male,Streptococcus_suis
+RR197004,Female,Streptococcus_suis
+RR197007,Male,Streptococcus_suis
+RR197008,Male,Streptococcus_suis
+RR197010,Female,Streptococcus_suis
+RR197011,Female,Streptococcus_suis
+RR197012,Female,Streptococcus_suis
+RR197013,Male,Streptococcus_suis
+RR197014,Male,Streptococcus_suis
+RR197015,Male,Streptococcus_suis
+RR197018,Male,Streptococcus_suis
+RR197020,Female,Streptococcus_suis
+RR197023,Female,Streptococcus_suis
+RR197024,Male,Streptococcus_suis
+RR197028,Female,Streptococcus_suis
+RR197005,Male,Streptococcus_suis
+RR197017,Male,Streptococcus_suis
+RR197025,Male,Streptococcus_suis
+RR197026,Male,Streptococcus_suis
+RR197029,Female,Streptococcus_suis
+RR197030,Male,Streptococcus_suis
+RR197031,Male,Streptococcus_suis
+RR197034,Male,Streptococcus_suis
+RR197033,Female,Streptococcus_suis
+RR197037,Male,Streptococcus_suis
+RR197038,Male,Streptococcus_suis
+RR197039,Male,Streptococcus_suis
+RR197048,Male,Streptococcus_suis
+RR197047,Male,Streptococcus_suis
+RR197040,Male,Streptococcus_suis
+RR197046,Female,Streptococcus_suis
+RR197045,Male,Streptococcus_suis
+RR197043,Female,Streptococcus_suis
+RR197053,Female,Streptococcus_suis
+RR197027,Male,Streptococcus_suis
+RR197049,Female,Streptococcus_suis
+RR197051,Male,Streptococcus_suis
+RR197052,Female,Streptococcus_suis
+RR197055,Female,Streptococcus_suis
+RR197057,Male,Streptococcus_suis
+RR197058,Female,Streptococcus_suis
+RR197059,Female,Streptococcus_suis
+RR197060,Female,Streptococcus_suis
+RR197061,Male,Streptococcus_suis
+RR197062,Female,Streptococcus_suis
+RR197063,Male,Streptococcus_suis
+RR197065,Female,Streptococcus_suis
+RR197066,Male,Streptococcus_suis
+RR197067,Female,Streptococcus_suis
+RR197068,Female,Streptococcus_suis
+RR197069,Male,Streptococcus_suis
+RR197070,Female,Streptococcus_suis
+RR197071,Male,Streptococcus_suis
+RR197072,Male,Streptococcus_suis
+RR197073,Female,Streptococcus_suis
+RR197074,Male,Streptococcus_suis
+RR197077,Female,Streptococcus_suis
+RR197079,Male,Streptococcus_suis
+RR197078,Male,Streptococcus_suis
+RR197085,Male,Streptococcus_suis
+RR197089,Male,Streptococcus_suis
+RR197091,Female,Streptococcus_suis
+RR197093,Male,Streptococcus_suis
+RR197094,Female,Streptococcus_suis
+RR197095,Female,Streptococcus_suis
+RR197096,Male,Streptococcus_suis
+RR197097,Male,Streptococcus_suis
+RR197099,Female,Streptococcus_suis
+RR197100,Male,Streptococcus_suis
+RR197101,Female,Streptococcus_suis
+RR197102,Male,Streptococcus_suis
+RR197103,Male,Streptococcus_suis
+RR197104,Male,Streptococcus_suis
+RR197105,Male,Streptococcus_suis
+RR197106,Female,Streptococcus_suis
+RR197082,Female,Streptococcus_suis
+RR197083,Male,Streptococcus_suis
+RR197084,Female,Streptococcus_suis
+RR197086,Female,Streptococcus_suis
+RR197088,Male,Streptococcus_suis
+RR197087,Male,Streptococcus_suis
+RR197090,Male,Streptococcus_suis
+RR197107,Male,Streptococcus_suis
+RR197108,Male,Streptococcus_suis
+RR197109,Female,Streptococcus_suis
+RR197111,Female,Streptococcus_suis
+RR197116,Female,Streptococcus_suis
+RR197117,Female,Streptococcus_suis
+RR197118,Female,Streptococcus_suis
+RR197119,Female,Streptococcus_suis
+RR197120,Female,Streptococcus_suis
+RR197121,Female,Streptococcus_suis
+RR197115,Male,Streptococcus_suis
+RR197122,Male,Streptococcus_suis
+RR197124,Male,Streptococcus_suis
+RR197125,Female,Streptococcus_suis
+RR197127,Female,Streptococcus_suis
+RR197126,Male,Streptococcus_suis
+RR197128,Female,Streptococcus_suis
+RR197129,Female,Streptococcus_suis
+RR197131,Male,Streptococcus_suis
+RR197132,Male,Streptococcus_suis
+RR197133,Female,Streptococcus_suis
+RR197134,Male,Streptococcus_suis
+RR197135,Female,Streptococcus_suis
+RR197136,Female,Streptococcus_suis
+RR197138,Female,Streptococcus_suis
+RR197139,Female,Streptococcus_suis
+RR197140,Male,Streptococcus_suis
+RR197141,Female,Streptococcus_suis
+RR197142,Female,Streptococcus_suis
+RR197143,Male,Streptococcus_suis
+RR197144,Female,Streptococcus_suis
+RR197001,Female,Streptococcus_equinus
+RR197002,Female,Streptococcus_equinus
+RR197003,Male,Streptococcus_equinus
+RR197007,Male,Streptococcus_equinus
+RR197008,Male,Streptococcus_equinus
+RR197010,Female,Streptococcus_equinus
+RR197011,Female,Streptococcus_equinus
+RR197012,Female,Streptococcus_equinus
+RR197013,Male,Streptococcus_equinus
+RR197014,Male,Streptococcus_equinus
+RR197015,Male,Streptococcus_equinus
+RR197023,Female,Streptococcus_equinus
+RR197024,Male,Streptococcus_equinus
+RR197005,Male,Streptococcus_equinus
+RR197016,Female,Streptococcus_equinus
+RR197026,Male,Streptococcus_equinus
+RR197030,Male,Streptococcus_equinus
+RR197035,Male,Streptococcus_equinus
+RR197039,Male,Streptococcus_equinus
+RR197048,Male,Streptococcus_equinus
+RR197047,Male,Streptococcus_equinus
+RR197040,Male,Streptococcus_equinus
+RR197046,Female,Streptococcus_equinus
+RR197045,Male,Streptococcus_equinus
+RR197043,Female,Streptococcus_equinus
+RR197053,Female,Streptococcus_equinus
+RR197027,Male,Streptococcus_equinus
+RR197049,Female,Streptococcus_equinus
+RR197050,Female,Streptococcus_equinus
+RR197051,Male,Streptococcus_equinus
+RR197052,Female,Streptococcus_equinus
+RR197055,Female,Streptococcus_equinus
+RR197057,Male,Streptococcus_equinus
+RR197060,Female,Streptococcus_equinus
+RR197061,Male,Streptococcus_equinus
+RR197062,Female,Streptococcus_equinus
+RR197064,Male,Streptococcus_equinus
+RR197065,Female,Streptococcus_equinus
+RR197066,Male,Streptococcus_equinus
+RR197067,Female,Streptococcus_equinus
+RR197068,Female,Streptococcus_equinus
+RR197070,Female,Streptococcus_equinus
+RR197071,Male,Streptococcus_equinus
+RR197072,Male,Streptococcus_equinus
+RR197073,Female,Streptococcus_equinus
+RR197074,Male,Streptococcus_equinus
+RR197077,Female,Streptococcus_equinus
+RR197079,Male,Streptococcus_equinus
+RR197080,Male,Streptococcus_equinus
+RR197078,Male,Streptococcus_equinus
+RR197089,Male,Streptococcus_equinus
+RR197091,Female,Streptococcus_equinus
+RR197093,Male,Streptococcus_equinus
+RR197094,Female,Streptococcus_equinus
+RR197097,Male,Streptococcus_equinus
+RR197098,Female,Streptococcus_equinus
+RR197101,Female,Streptococcus_equinus
+RR197102,Male,Streptococcus_equinus
+RR197105,Male,Streptococcus_equinus
+RR197106,Female,Streptococcus_equinus
+RR197088,Male,Streptococcus_equinus
+RR197090,Male,Streptococcus_equinus
+RR197108,Male,Streptococcus_equinus
+RR197111,Female,Streptococcus_equinus
+RR197112,Female,Streptococcus_equinus
+RR197117,Female,Streptococcus_equinus
+RR197118,Female,Streptococcus_equinus
+RR197119,Female,Streptococcus_equinus
+RR197120,Female,Streptococcus_equinus
+RR197121,Female,Streptococcus_equinus
+RR197122,Male,Streptococcus_equinus
+RR197125,Female,Streptococcus_equinus
+RR197127,Female,Streptococcus_equinus
+RR197126,Male,Streptococcus_equinus
+RR197129,Female,Streptococcus_equinus
+RR197131,Male,Streptococcus_equinus
+RR197132,Male,Streptococcus_equinus
+RR197133,Female,Streptococcus_equinus
+RR197135,Female,Streptococcus_equinus
+RR197140,Male,Streptococcus_equinus
+RR197142,Female,Streptococcus_equinus
+RR197143,Male,Streptococcus_equinus
+RR197144,Female,Streptococcus_equinus
+RR197145,Male,Streptococcus_equinus
+RR197002,Female,Clostridium_botulinum
+RR197003,Male,Clostridium_botulinum
+RR197004,Female,Clostridium_botulinum
+RR197007,Male,Clostridium_botulinum
+RR197010,Female,Clostridium_botulinum
+RR197011,Female,Clostridium_botulinum
+RR197012,Female,Clostridium_botulinum
+RR197013,Male,Clostridium_botulinum
+RR197015,Male,Clostridium_botulinum
+RR197018,Male,Clostridium_botulinum
+RR197023,Female,Clostridium_botulinum
+RR197024,Male,Clostridium_botulinum
+RR197028,Female,Clostridium_botulinum
+RR197017,Male,Clostridium_botulinum
+RR197025,Male,Clostridium_botulinum
+RR197026,Male,Clostridium_botulinum
+RR197029,Female,Clostridium_botulinum
+RR197030,Male,Clostridium_botulinum
+RR197033,Female,Clostridium_botulinum
+RR197037,Male,Clostridium_botulinum
+RR197038,Male,Clostridium_botulinum
+RR197039,Male,Clostridium_botulinum
+RR197047,Male,Clostridium_botulinum
+RR197042,Female,Clostridium_botulinum
+RR197040,Male,Clostridium_botulinum
+RR197046,Female,Clostridium_botulinum
+RR197045,Male,Clostridium_botulinum
+RR197053,Female,Clostridium_botulinum
+RR197049,Female,Clostridium_botulinum
+RR197051,Male,Clostridium_botulinum
+RR197052,Female,Clostridium_botulinum
+RR197055,Female,Clostridium_botulinum
+RR197056,Male,Clostridium_botulinum
+RR197058,Female,Clostridium_botulinum
+RR197059,Female,Clostridium_botulinum
+RR197060,Female,Clostridium_botulinum
+RR197061,Male,Clostridium_botulinum
+RR197062,Female,Clostridium_botulinum
+RR197065,Female,Clostridium_botulinum
+RR197066,Male,Clostridium_botulinum
+RR197067,Female,Clostridium_botulinum
+RR197069,Male,Clostridium_botulinum
+RR197070,Female,Clostridium_botulinum
+RR197071,Male,Clostridium_botulinum
+RR197072,Male,Clostridium_botulinum
+RR197073,Female,Clostridium_botulinum
+RR197074,Male,Clostridium_botulinum
+RR197075,Male,Clostridium_botulinum
+RR197077,Female,Clostridium_botulinum
+RR197079,Male,Clostridium_botulinum
+RR197080,Male,Clostridium_botulinum
+RR197078,Male,Clostridium_botulinum
+RR197085,Male,Clostridium_botulinum
+RR197089,Male,Clostridium_botulinum
+RR197093,Male,Clostridium_botulinum
+RR197094,Female,Clostridium_botulinum
+RR197095,Female,Clostridium_botulinum
+RR197096,Male,Clostridium_botulinum
+RR197097,Male,Clostridium_botulinum
+RR197099,Female,Clostridium_botulinum
+RR197100,Male,Clostridium_botulinum
+RR197102,Male,Clostridium_botulinum
+RR197104,Male,Clostridium_botulinum
+RR197106,Female,Clostridium_botulinum
+RR197082,Female,Clostridium_botulinum
+RR197084,Female,Clostridium_botulinum
+RR197086,Female,Clostridium_botulinum
+RR197088,Male,Clostridium_botulinum
+RR197087,Male,Clostridium_botulinum
+RR197090,Male,Clostridium_botulinum
+RR197107,Male,Clostridium_botulinum
+RR197108,Male,Clostridium_botulinum
+RR197109,Female,Clostridium_botulinum
+RR197111,Female,Clostridium_botulinum
+RR197116,Female,Clostridium_botulinum
+RR197117,Female,Clostridium_botulinum
+RR197118,Female,Clostridium_botulinum
+RR197119,Female,Clostridium_botulinum
+RR197120,Female,Clostridium_botulinum
+RR197122,Male,Clostridium_botulinum
+RR197124,Male,Clostridium_botulinum
+RR197125,Female,Clostridium_botulinum
+RR197127,Female,Clostridium_botulinum
+RR197128,Female,Clostridium_botulinum
+RR197129,Female,Clostridium_botulinum
+RR197132,Male,Clostridium_botulinum
+RR197135,Female,Clostridium_botulinum
+RR197138,Female,Clostridium_botulinum
+RR197139,Female,Clostridium_botulinum
+RR197140,Male,Clostridium_botulinum
+RR197141,Female,Clostridium_botulinum
+RR197143,Male,Clostridium_botulinum
+RR197144,Female,Clostridium_botulinum
