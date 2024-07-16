@@ -1,0 +1,1 @@
+for i in $(ls *taxon_report.csv); do id=$(echo $i | cut -f1 -d"_"); echo "tax_level,name,domain,Z_score,nt_rpm,nt_contigs,nt_alignment_length,nr_rpm,nr_contigs,known_pathogen" > extracted/${id}.csv; cat $i | awk -F"," '$2 == 1' | cut -f2,4,9,11,13,16,23,25,35,6 -d"," | awk -F"," '$5 >= 10 && $6 >= 1 && $7 >= 50 && $8 >= 10 && $9 >= 1' >> extracted/${id}.csv; done
