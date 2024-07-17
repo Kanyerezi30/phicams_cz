@@ -1,0 +1,9 @@
+### common to all
+#comm -12 abc-3tc-dtgp.csv abc-3tc-lpvp.csv | sort -u > comm1.csv
+#comm -12 comm1.csv azt-3tc-dtgp.csv | sort -u > comm2.csv
+#comm -23 comm2.csv azt-3tc-lpvp.csv | sort -u > comm3.csv
+#comm -23 comm3.csv dtg-3tc-1p.csv | sort -u > comm4.csv
+#comm -23 comm4.csv dtg-etv-drv-rip.csv | sort -u > comm5.csv
+#comm -23 comm5.csv newly_diagnosedp.csv | sort -u > comm6.csv
+#comm -23 comm6.csv sero_exposedp.csv | sort -u > comm7.csv
+#comm -23 comm7.csv tdf-3tc-dtgp.csv | sort -u > comm8.csv

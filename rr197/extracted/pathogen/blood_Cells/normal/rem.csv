@@ -1,0 +1,4 @@
+comm -12 basophilsp.csv eosinophilsp.csv | sort -u > comm1.csv
+comm -12 comm1.csv lymphocytesp.csv | sort -u > comm2.csv
+comm -12 comm2.csv monocytesp.csv | sort -u > comm3.csv
+comm -12 comm3.csv neutrophilsp.csv | sort -u > comm4.csv
